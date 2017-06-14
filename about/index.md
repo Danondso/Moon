@@ -12,6 +12,6 @@ My name is Dublin Anondson. I'm from Alaska, I'm left-handed, I like playing mus
 
 I thought I'd try blogging or something like that. 
 
-Chronicaling the things I do sounds fun.
+Chronicling the things I do sounds fun.
 
 Btw shout out to the theme's creator <a href="https://github.com/TaylanTatli" target="_blank">TaylanTatli</a>, it's absolutely gorgeous.
