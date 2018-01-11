@@ -1,7 +1,7 @@
 # Site
 title:              Dublin Anondson
 bio:                'Programmer || Musician'
-description:        "Just a blog about a guy in Arkansas."
+description:        "A blog for Dublin"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.png'
@@ -9,6 +9,7 @@ background:         'assets/img/polyscape.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://danondso.github.io/Moon
+# url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -42,7 +43,7 @@ disqus_shortname:   danondso
 # facebook:           username
 github-url:         Danondso
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           dublin-anondson-4b562793
 #xing:              username
 instagram:          dublin_anondson
 lastfm:             pinknobody27
@@ -63,7 +64,7 @@ soundcloud:         dublin-anondson
 #hackernews:        username
 
 # Gems
-gems:
+plugins_dir:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap

@@ -10,7 +10,3 @@ tag:
 - pedal
 comments: true
 ---
-
-## 
-
-Once my I get my shit organized I'll start putting up things here.
