@@ -2,7 +2,7 @@
 layout: post
 title: "Camping in January"
 date: 2018-01-10
-excerpt: "I'm trying just reconstruct.."
+excerpt: "I'm trying to just reconstruct.. ~Photay"
 tags: [blog, opinion, camping]
 comments: true
 ---
