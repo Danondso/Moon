@@ -69,20 +69,19 @@ And that was it, I was on my way to debugging my app!
 To confirm it was actually it was setup correctly. I setup a remote config in IntelliJ:
 
 <figure>
-	<a href="https://imgur.com/ioswzfP"><img src="https://imgur.com/ioswzfP"></a>
+	<a href="https://imgur.com/ioswzfP"><img src="https://i.imgur.com/ioswzfP.png" title="source: imgur.com" /></a>
 </figure>
-![Run config setup in IntelliJ]()
 
 Then I ran my docker-compose-debug file:
 
 <figure>
-	<a href="https://imgur.com/a2NMTlK"><img src="https://imgur.com/a2NMTlK"></a>
+	<a href="https://i.imgur.com/a2NMTlK.png"><img src="https://i.imgur.com/a2NMTlK.png" title="source: imgur.com" ></a>
 </figure>
 
 Finally, I set a breakpoint and hit it:
 
 <figure>
-	<a href="https://imgur.com/HLlbVlk"><img src="https://imgur.com/HLlbVlk"></a>
+	<a href="https://imgur.com/HLlbVlk"><img src="https://i.imgur.com/HLlbVlk.png" title="source: imgur.com" /></a>
 </figure>
 
 And there it is, we're running our app via docker-compose with debug enabled.
