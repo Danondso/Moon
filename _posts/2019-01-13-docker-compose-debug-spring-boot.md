@@ -68,15 +68,21 @@ And that was it, I was on my way to debugging my app!
 
 To confirm it was actually it was setup correctly. I setup a remote config in IntelliJ:
 
-![Run config setup in IntelliJ](/assets/img/post-images/2019-01-13/run-configuration-intellij.png)
+<figure>
+  <img src="/assets/img/post-images/2019-01-13/run-configuration-intellij.png">
+</figure>
 
 Then I ran my docker-compose-debug file:
 
-![Debug App Running](/assets/img/post-images/2019-01-13/run-docker-compose-debug.png)
+<figure>
+  <img src="/assets/img/post-images/2019-01-13/run-docker-compose-debug.png">
+</figure>
 
 Finally, I set a breakpoint and hit it:
 
-![Breakpoint Hit](/assets/img/post-images/2019-01-13/debug-hit.png)
+<figure>
+  <img src="/assets/img/post-images/2019-01-13/debug-hit.png">
+</figure>
 
 And there it is, we're running our app via docker-compose with debug enabled.
 
